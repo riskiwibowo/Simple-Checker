@@ -1,0 +1,11 @@
+E:\Release\Simple Checker\Simple Checker\bin\Debug\Simple Checker.exe.config
+E:\Release\Simple Checker\Simple Checker\bin\Debug\Simple Checker.exe
+E:\Release\Simple Checker\Simple Checker\bin\Debug\Simple Checker.pdb
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple Checker.csproj.AssemblyReference.cache
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple Checker.csproj.SuggestedBindingRedirects.cache
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple_Checker.MainWindow.resources
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple_Checker.Properties.Resources.resources
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple Checker.csproj.GenerateResource.cache
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple Checker.csproj.CoreCompileInputs.cache
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple Checker.exe
+E:\Release\Simple Checker\Simple Checker\obj\Debug\Simple Checker.pdb
